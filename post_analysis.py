@@ -25,7 +25,7 @@ import ee
 import geemap
 from tqdm import tqdm  # Import tqdm for the progress bar
 from rasterio.plot import show
-import geemap.colormaps as cm
+#import geemap.colormaps as cm
 import folium
 from matplotlib.dates import DateFormatter, DayLocator
 from branca.colormap import LinearColormap
